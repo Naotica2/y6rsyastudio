@@ -80,7 +80,7 @@ function waitAndResponce(inputText) {
             sendTextMessage(resumeString);
             break;
         case "skill":
-            sendTextMessage("<span class='sk'>I am a beginner in programming.<br><br>I can comfortably write code in following languages :<br><span class='bold'>JavaScript<br>PHP<br>CSS<br>HTML</span><br><br>I have no work experience in terms of web developers.<br><br>I useI have only made small projects for myself in the past 2 years. Thanks");
+            sendTextMessage("<span class='sk'>I am a beginner in programming.<br><br>I can comfortably write code in following languages :<br><span class='bold'>JavaScript<br>PHP<br>CSS<br>HTML</span><br><br>I have no work experience in terms of web developers.<br><br>I have only made small projects for myself in the past 2 years. Thanks");
             break;
         case "clear":
             clearChat();
